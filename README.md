@@ -19,5 +19,4 @@ Course project: socket programming-UDP ping
    
  - Run server code first.
  - Run client code.
- - 
 
